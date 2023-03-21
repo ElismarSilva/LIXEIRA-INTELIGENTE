@@ -1,0 +1,5 @@
+SensorUltrasonico	KEYWORD1
+distanciaCM		KEYWORD2
+distanciaM		KEYWORD2
+distanciaPol		KEYWORD2
+distancia		KEYWORD2
